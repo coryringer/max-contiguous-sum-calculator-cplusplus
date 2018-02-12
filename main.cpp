@@ -9,7 +9,7 @@ int main()
 {
   const int X_COORD    = 40;            // x-coord of string to PostScript file
   const int PS_NEWLINE = 25;            // make new line down PostScript file
-	int y = 750;                          // y-coord of string to PS file
+  int y = 750;                          // y-coord of string to PS file
   Sequence mySeq;                       // create mySeq
   PostScript file;
 	std::string psFilename = "output.ps"; // PostScript filename
