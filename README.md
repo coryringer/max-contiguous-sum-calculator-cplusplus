@@ -5,6 +5,8 @@ Original Author: Cory Ringer
 
 Last Updated: 11 February 2018
 
-This program was written for my Data Structures and Algorithms course. The purpose of this program is to create an array filled with random numbers and determines the largest contiguous subsequence of the array.
+This program was written for my Data Structures and Algorithms course. The purpose of this program is to create an array filled with random numbers and determines the largest contiguous subsequence of the array. The program outputs a PostScript file.
+
+To run this program, either build it using make, or run the shell script 'run.sh'. 
 
 This software is copyrighted under the MIT License. See LICENSE for details.
