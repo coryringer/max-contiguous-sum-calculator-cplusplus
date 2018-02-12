@@ -7,4 +7,3 @@ PS_WRITTEN="PostScript file written."
 make && echo $PROG_SUCCESS
 make clean
 ./maxcontig && echo $PS_WRITTEN
-gv *.ps
