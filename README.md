@@ -9,4 +9,4 @@ This program was written for my Data Structures and Algorithms course at Northam
 
 To run this program, either build it using make, or run the shell script 'run.sh'. 
 
-This software is copyrighted under the GNU General Public License. See LICENSE for details.
+This software is copyrighted under the MIT License. See LICENSE for details.
